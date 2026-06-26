@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+# ChromaDB
+notebook/data/
+data/vector_store/
