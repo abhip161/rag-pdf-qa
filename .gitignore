@@ -12,3 +12,5 @@ wheels/
 # ChromaDB
 notebook/data/
 data/vector_store/
+
+.env
