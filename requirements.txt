@@ -8,3 +8,6 @@ faiss-cpu
 chromadb
 langchain-groq
 python-dotenv
+langchain_groq
+langsmith
+streamlit

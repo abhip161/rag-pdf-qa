@@ -3,7 +3,7 @@ name = "rag"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.14"
+requires-python = ">=3.11"
 dependencies = [
     "chromadb>=1.5.9",
     "faiss-cpu>=1.14.3",
@@ -17,6 +17,8 @@ dependencies = [
     "pypdf>=6.13.3",
     "python-dotenv>=1.2.2",
     "sentence-transformers>=5.6.0",
+    "langsmith>=0.1",
+    "streamlit>=1.40",
 ]
 [tool.pyrefly]
 search-path = ["."]
